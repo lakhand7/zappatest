@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "django_settings": "zappatest.settings",
+        "profile_name": "default",
+        "aws_region":"us-east-2",
+        "project_name": "zappatest",
+        "runtime": "python3.7",
+        "s3_bucket": "zappa-aznl2xig0"
+    }
+}
